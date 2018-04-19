@@ -6,5 +6,6 @@
 [Wrong answer](https://github.com/SanJeong/Score_Program_18ss/blob/master/problem_excuse.csv)
 <hr/>
 [Student List](https://github.com/SanJeong/Score_Program_18ss/blob/master/st_list.txt)
-</>
-by San Jeong
+
+
+_by San Jeong_
