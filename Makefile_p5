@@ -1,0 +1,15 @@
+all: Problem05 output
+	g++ -L. Problem05.o -o Problem05
+	./Problem05 <word.txt > result.txt
+	./output <word.txt > answer.txt
+	  
+Problem05: problem05.cpp
+	g++ -std=c++11 -c problem05.cpp -o Problem05.o
+
+clean:
+	rm result.txt
+	rm answer.txt
+	rm problem05.txt
+	rm Problem05.txt
+	rm *.o
+	rm Problem05

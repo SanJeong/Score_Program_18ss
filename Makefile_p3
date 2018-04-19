@@ -1,0 +1,14 @@
+all: Problem03 output
+	g++ -L. Problem03.o -o Problem03
+	rm -f result.log
+	rm -f answer.log
+	./Problem03 > result.txt
+	./output > answer.txt
+Problem03: problem03.cpp
+	g++ -std=c++11 -c problem03.cpp -o Problem03.o
+
+clean:
+	rm result.txt
+	rm answer.txt
+	rm *.o
+	rm Problem03
