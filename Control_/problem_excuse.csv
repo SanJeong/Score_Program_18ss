@@ -40,24 +40,6 @@ Answer :
 
 Yours : 
 ---------------------------------------------------------
-21500280,Problem05
-Answer : 
-Enter a string 
->>Broken Keyboard Output:ggcncrt
-
-Yours : 
-Enter a string 
->>Broken Keyboard Output: ggcncrt
----------------------------------------------------------
-21500713,Problem05
-Answer : 
-Enter a string 
->>Broken Keyboard Output:ggcncrt
-
-Yours : 
-Enter a string 
->>Broken Keyboard Output: ggcncrt
----------------------------------------------------------
 21600078,Problem04
 Answer : 
 49
@@ -72,16 +54,7 @@ Enter a string
 
 Yours : 
 Enter a string 
->>g gc nc rt---------------------------------------------------------
-21600656,Problem05
-Answer : 
-Enter a string 
->>Broken Keyboard Output:ggcncrt
-
-Yours : 
-Enter a string 
->>gagconcert
-Broken Keyboard Output:ggcncrt
+>>g gc nc rt
 ---------------------------------------------------------
 21600755,Problem04
 Answer : 
